@@ -4,12 +4,14 @@
 
 This repository contains the system design, UML diagrams, and Java class code for a Live Video Streaming application. The application allows users to stream and view live video content.
 
+### Actor - Customer
+
 ## System Design
 
 ### UML Diagrams
 
-- [System Architecture Diagram]([link-to-system-architecture-diagram](https://github.com/Aniruddha-kotal/LiveStreamingApp-System-Design/blob/master/Design_diagram.jpg))
-- [Class Diagram]([link-to-class-diagram](https://github.com/Aniruddha-kotal/LiveStreamingApp-System-Design/blob/master/Design_diagram.jpg))
+- [System Architecture Diagram](https://github.com/Aniruddha-kotal/LiveStreamingApp-System-Design/blob/master/Design_diagram.jpg)
+- [Class Diagram](https://github.com/Aniruddha-kotal/LiveStreamingApp-System-Design/blob/master/Design_diagram.jpg)
 
 ## Project Structure
 
@@ -30,3 +32,5 @@ Follow these steps to get a copy of the project up and running on your local mac
 
    ```bash
    git clone [https://github.com/your-username/LiveVideoStreamingApp.git](https://github.com/Aniruddha-kotal/LiveStreamingApp-System-Design.git)
+2. You can use the UML darwing to make changes
+   Open the "LiveStreamingApp.drawio" file in [draw.io](https://app.diagrams.net/)
