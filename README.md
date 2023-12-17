@@ -8,9 +8,8 @@ This repository contains the system design, UML diagrams, and Java class code fo
 
 ### UML Diagrams
 
-- [System Architecture Diagram](link-to-system-architecture-diagram)
-- [Class Diagram](link-to-class-diagram)
-- [Other UML Diagrams](link-to-other-uml-diagrams)
+- [System Architecture Diagram]([link-to-system-architecture-diagram](https://github.com/Aniruddha-kotal/LiveStreamingApp-System-Design/blob/master/Design_diagram.jpg))
+- [Class Diagram]([link-to-class-diagram](https://github.com/Aniruddha-kotal/LiveStreamingApp-System-Design/blob/master/Design_diagram.jpg))
 
 ## Project Structure
 
@@ -30,4 +29,4 @@ Follow these steps to get a copy of the project up and running on your local mac
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/LiveVideoStreamingApp.git
+   git clone [https://github.com/your-username/LiveVideoStreamingApp.git](https://github.com/Aniruddha-kotal/LiveStreamingApp-System-Design.git)
